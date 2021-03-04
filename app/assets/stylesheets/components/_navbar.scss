@@ -7,11 +7,16 @@
 }
 
 .notso {
-  a, h1, {
+  h1 {
   font-family: 'Ubuntu', sans-serif;
   font-size: 28px;
   font-weight: light;
   margin-left: 20px;
+  }
+  a {
+  font-size: 28px;
+  font-weight: light;
+  margin-right: 20px;
   }
 }
 .navbar-lewagon .navbar-collapse {
